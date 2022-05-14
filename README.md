@@ -50,6 +50,6 @@ To finish your task, please READ and UPDATE config.ini IN DETAIL.
 
 ## Datasets
 
-The datasets we used in the paper (Rand, DNA, ECG, Deep) are all too large to be uploaded on Github.
-We are now trying upload them to cloud storage.
+The datasets we used in the paper (Rand, DNA, ECG, Deep) are now in OneDrive.
 
+See the datasets.txt to find how to access them.
